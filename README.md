@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mA1L3Ur56FgZe_Z5w9MGDRL6I7DZ0sna/view?usp=drive_link](https://drive.google.com/file/d/1mA1L3Ur56FgZe_Z5w9MGDRL6I7DZ0sna/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex;">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/asadur-jaman-nur-494353197/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asadur-jaman-494353197/" height="30" width="40" /></a>
