@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link](https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<div>
+<div align="left" style="display: flex;">
 
 <!-- LinkedIn -->
 
