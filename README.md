@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fensami&label=Profile%20views&color=0e75b6&style=flat" alt="fensami" /></p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Her Power Project**
 
 - 📫 How to reach me **asadurjamannursabbir@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mA1L3Ur56FgZe_Z5w9MGDRL6I7DZ0sna/view?usp=drive_link](https://drive.google.com/file/d/1mA1L3Ur56FgZe_Z5w9MGDRL6I7DZ0sna/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link](https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+<div align="right">
 
 <!-- LinkedIn -->
 
@@ -22,7 +22,7 @@
 
 <a style="display: block;" href="https://fb.com/https://www.facebook.com/profile.php?id=100081583921609" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
