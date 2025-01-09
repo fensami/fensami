@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asadur Jaman Nur</h1>
+<h1 align="left">Hi 👋, I'm Asadur Jaman Nur</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,16 +15,14 @@
 <p align="left">
 
 <!-- LinkedIn -->
+
 <a href="https://www.linkedin.com/in/asadur-jaman-nur-494353197/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
-
-
 <!-- Facebook -->
+
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100081583921609" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+
 </p>
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
