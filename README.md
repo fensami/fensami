@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fensami&label=Profile%20views&color=0e75b6&style=flat" alt="fensami" /></p>
 
-- 🔭 I’m currently working on **Her Power Project**
+- 🔭 I’m working on self-improvement to grow both personally and professionally.
 
 - 📫 How to reach me **asadurjamannursabbir@gmail.com**
 
@@ -13,16 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
-
-<!-- LinkedIn -->
-
-<a href="https://www.linkedin.com/in/asadur-jaman-nur-494353197/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-
-<!-- Facebook -->
-
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100081583921609" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/asadur-jaman-nur-494353197/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100081583921609" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
