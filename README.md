@@ -12,15 +12,30 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link](https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<div>
+<!-- <div>
   <a href="https://www.linkedin.com/in/asadur-jaman-nur-494353197/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://fb.com/https://www.facebook.com/profile.php?id=100081583921609" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-</div>
+</div> -->
 
+<div>
+
+<!-- LinkedIn -->
+
+<a href="https://www.linkedin.com/in/asadur-jaman-nur-494353197/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<!-- Facebook -->
+
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100081583921609" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
