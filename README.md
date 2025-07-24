@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on self-improvement to grow both personally and professionally.
 
-- 📫 How to reach me **asadurjamannursabbir@gmail.com**
+- 📫 How To Reach Me **asadurjamannursabbir@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link](https://drive.google.com/file/d/1AD_13E_ayPpLe57V0-jgW8FL8bMDulnj/view?usp=drive_link)
 
