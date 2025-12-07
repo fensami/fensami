@@ -2,10 +2,15 @@
   <img src="https://github.com/user-attachments/assets/33c5358e-9f81-42e6-96b8-b58b5fd2d12f" alt="Project or Profile Banner" width="100%">
 </p>
 
-# Hi there 👋
+# 👋 Hi, I'm Asadur Jaman Nur!
 
-I'm **Asadur Jaman Nur**, a passionate developer focused on the Frontend Developer and beyond! Welcome to my GitHub profile.
+## 🚀 MERN Stack Developer & Frontend Expert
 
+---
+
+### 🎯 About Me
+
+I am a passionate and results-driven MERN Stack Developer focused on building high-performance, user-friendly web applications. With expertise in React.js and Next.js, I specialize in transforming complex designs into responsive, optimized front-end experiences. I thrive on solving technical challenges and constantly exploring new technologies to deliver innovative solutions.
 
 ## 🌐 Contact Info :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asadur.jaman.nur.197683/) 
