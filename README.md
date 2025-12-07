@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Asadur Jaman Nur!
 
-## 🚀 MERN Stack Developer & Frontend Expert
+## 🚀 Frontend Developer , React Js , Next Js Expert
 
 ### 🎯 About Me
 
