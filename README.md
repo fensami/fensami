@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL_HERE](https://github.com/user-attachments/assets/8b33127d-637a-4a7d-903c-1609beec81f7)" alt="Project or Profile Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/8b33127d-637a-4a7d-903c-1609beec81f7" alt="Project or Profile Banner" width="100%">
 </p>
 
 # Hi there 👋
