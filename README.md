@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-## I'm **Asadur Jaman Nur**, a passionate developer focused on the Frontend Developer and beyond! Welcome to my GitHub profile.
+I'm **Asadur Jaman Nur**, a passionate developer focused on the Frontend Developer and beyond! Welcome to my GitHub profile.
 
 
 ## 🌐 Contact Info :
