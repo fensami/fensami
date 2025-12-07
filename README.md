@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Project or Profile Banner" width="100%">
+</p>
 
+# Hi there 👋
+
+I'm **Asadur Jaman Nur**, a passionate developer focused on the MERN stack and beyond! Welcome to my GitHub profile.
 ## 🌐 Contact Info :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asadur.jaman.nur.197683/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadur-jaman-nur-494353197/) 
