@@ -6,8 +6,6 @@
 
 ## 🚀 MERN Stack Developer & Frontend Expert
 
----
-
 ### 🎯 About Me
 
 I am a passionate and results-driven MERN Stack Developer focused on building high-performance, user-friendly web applications. With expertise in React.js and Next.js, I specialize in transforming complex designs into responsive, optimized front-end experiences. I thrive on solving technical challenges and constantly exploring new technologies to deliver innovative solutions.
