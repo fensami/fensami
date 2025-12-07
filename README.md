@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asadur.jaman.nur.197683/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadur-jaman-nur-494353197/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](asadurjamannursabbir@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] : asadurjamannursabbir@gmail.com
 
 ## 🌐 Contact Number:
 ### 01805231189
